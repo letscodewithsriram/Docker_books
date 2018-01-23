@@ -6,45 +6,50 @@ This is my personal collection of free Docker books, feel free to share and read
 
 You can find all the books listed below in [**book**](/book) folder of this repo:
 
-* A Practical Guide to Continuous Delivery
-* Advanced Microservices
-* Build Your Own PaaS with Docker
-* Containerized Docker Application Lifecycle with Microsoft Platform and Tools
-* DevOps - Puppet, Docker, and Kubernetes
-* Developing with Docker
-* Docker - Creating Structured Containers
-* Docker - Up & Running
-* Docker - 从入门到实践
-* Docker Bootcamp
-* Docker Cookbook - Solutions and Examples for Building Distributed Applications
-* Docker Cookbook
-* Docker High Performance
-* Docker Networking Cookbook
-* Docker Orchestration
-* Docker Tutorial - Anthony Baire
-* Docker Tutorial - tutorialspoint.com
-* Docker for Sysadmins
-* Docker in Action
-* Docker in Practice
-* Docker on Windows
-* Docker源码分析-看云版
-* Docker源码分析
-* Extending Docker
-* Getting Started with Kubernetes - Second Edition
-* Kubernetes Microservices with Docker
-* Learning Docker - Section Edition
-* Learning Docker Networking
-* Mastering Docker
-* Microservices - Building Scalable Software
-* Microservices with Docker on Microsoft Azure
-* Monitoring Docker
-* Native Docker Clustering with Swarm
-* Orchestrating Docker
-* Pro Docker
-* Securing Docker
-* The DevOps 2.0 Toolkit
-* The Docker Book - James Turnbull - v17.03.0
-* Troubleshooting Docker
-* Using Docker
-* What You Need to Know about Docker
-* 第一本Docker书
+* A Practical Guide to Continuous Delivery [[Download]](/book/A%20Practical%20Guide%20to%20Continuous%20Delivery.epub)
+* Advanced Microservices [[Download]](/book/Advanced%20Microservices.pdf)
+* Build APIs You Won't Hate [[Download]](/book/Build%20APIs%20You%20Won%27t%20Hate.pdf)
+* Build Your Own PaaS with Docker [[Download]](/book/Build%20Your%20Own%20PaaS%20with%20Docker.pdf)
+* Build Your Own PaaS with Docker_code.zip [[Download]](/book/Build%20Your%20Own%20PaaS%20with%20Docker_code.zip)
+* Containerized Docker Application Lifecycle with Microsoft Platform and Tools [[Download]](/book/Containerized%20Docker%20Application%20Lifecycle%20with%20Microsoft%20Platform%20and%20Tools.pdf)
+* DevOps - Puppet, Docker, and Kubernetes [[Download]](/book/DevOps%20-%20Puppet%2C%20Docker%2C%20and%20Kubernetes.pdf)
+* Developing with Docker [[Download]](/book/Developing%20with%20Docker.pdf)
+* Docker - Creating Structured Containers [[Download]](/book/Docker%20-%20Creating%20Structured%20Containers.pdf)
+* Docker - Up & Running [[Download]](/book/Docker%20-%20Up%20%26%20Running.pdf)
+* Docker - 从入门到实践 [[Download]](/book/Docker%20-%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5.pdf)
+* Docker Bootcamp [[Download]](/book/Docker%20Bootcamp.pdf)
+* Docker Cookbook - Solutions and Examples for Building Distributed Applications [[Download]](/book/Docker%20Cookbook%20-%20Solutions%20and%20Examples%20for%20Building%20Distributed%20Applications.pdf)
+* Docker Cookbook [[Download]](/book/Docker%20Cookbook.pdf)
+* Docker High Performance [[Download]](/book/Docker%20High%20Performance.pdf)
+* Docker Networking Cookbook [[Download]](/book/Docker%20Networking%20Cookbook.pdf)
+* Docker Orchestration [[Download]](/book/Docker%20Orchestration.pdf)
+* Docker Tutorial - Anthony Baire [[Download]](/book/Docker%20Tutorial%20-%20Anthony%20Baire.pdf)
+* Docker Tutorial - tutorialspoint.com [[Download]](/book/Docker%20Tutorial%20-%20tutorialspoint.com.pdf)
+* Docker for Sysadmins [[Download]](/book/Docker%20for%20Sysadmins.pdf)
+* Docker in Action [[Download]](/book/Docker%20in%20Action.pdf)
+* Docker in Practice [[Download]](/book/Docker%20in%20Practice.pdf)
+* Docker on Windows [[Download]](/book/Docker%20on%20Windows.pdf)
+* Docker源码分析-看云版 [[Download]](/book/Docker%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90-%E7%9C%8B%E4%BA%91%E7%89%88.pdf)
+* Docker源码分析 [[Download]](/book/Docker%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.pdf)
+* Extending Docker [[Download]](/book/Extending%20Docker.pdf)
+* Getting Started with Kubernetes - Second Edition [[Download]](/book/Getting%20Started%20with%20Kubernetes%20-%20Second%20Edition.pdf)
+* Kubernetes Microservices with Docker [[Download]](/book/Kubernetes%20Microservices%20with%20Docker.pdf)
+* Learning Docker - Section Edition [[Download]](/book/Learning%20Docker%20-%20Section%20Edition.pdf)
+* Learning Docker Networking [[Download]](/book/Learning%20Docker%20Networking.epub)
+* Learning Docker Networking [[Download]](/book/Learning%20Docker%20Networking.pdf)
+* Learning Docker [[Download]](/book/Learning%20Docker.pdf)
+* Mastering Docker [[Download]](/book/Mastering%20Docker.pdf)
+* Microservices with Docker on Microsoft Azure [[Download]](/book/Microservices%20with%20Docker%20on%20Microsoft%20Azure.epub)
+* Monitoring Docker [[Download]](/book/Monitoring%20Docker.pdf)
+* Native Docker Clustering with Swarm [[Download]](/book/Native%20Docker%20Clustering%20with%20Swarm.pdf)
+* Orchestrating Docker [[Download]](/book/Orchestrating%20Docker.pdf)
+* Pro Docker [[Download]](/book/Pro%20Docker.pdf)
+* Securing Docker [[Download]](/book/Securing%20Docker.pdf)
+* The DevOps 2.0 Toolkit [[Download]](/book/The%20DevOps%202.0%20Toolkit.pdf)
+* The Docker Book - James Turnbull - v17.03.0 [[Download]](/book/The%20Docker%20Book%20-%20James%20Turnbull%20-%20v17.03.0.pdf)
+* Troubleshooting Docker [[Download]](/book/Troubleshooting%20Docker.epub)
+* Troubleshooting Docker [[Download]](/book/Troubleshooting%20Docker.pdf)
+* Using Docker [[Download]](/book/Using%20Docker.pdf)
+* What You Need to Know about Docker [[Download]](/book/What%20You%20Need%20to%20Know%20about%20Docker.pdf)
+* running_high_performance_fault_tolerant_elasticsearch_clusters_on_docker [[Download]](/book/running_high_performance_fault_tolerant_elasticsearch_clusters_on_docker.pdf)
+* 第一本Docker书 [[Download]](/book/%E7%AC%AC%E4%B8%80%E6%9C%ACDocker%E4%B9%A6.pdf)
