@@ -35,6 +35,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Learning Docker - Section Edition
 * Learning Docker Networking
 * Mastering Docker
+* Microservices - Building Scalable Software
 * Microservices with Docker on Microsoft Azure
 * Monitoring Docker
 * Native Docker Clustering with Swarm
