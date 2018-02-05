@@ -44,6 +44,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Kubernetes Microservices with Docker [[Download]](/book/Kubernetes%20Microservices%20with%20Docker.pdf)
 * Learning Docker - Section Edition [[Download]](/book/Learning%20Docker%20-%20Section%20Edition.pdf)
 * Learning Docker Networking [[Download]](/book/Learning%20Docker%20Networking.epub)
+* Learning Windows Server Containers [[Download]](/book/Learning%20Windows%20Server%20Containers.pdf)
 * Mastering Docker [[Download]](/book/Mastering%20Docker.pdf)
 * Microservices - Building Scalable Software [[Download]](/book/Microservices%20-%20Building%20Scalable%20Software.pdf)
 * Microservices with Docker on Microsoft Azure [[Download]](/book/Microservices%20with%20Docker%20on%20Microsoft%20Azure.epub)
