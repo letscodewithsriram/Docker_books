@@ -55,6 +55,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Pro Docker [[Download]](/book/Pro%20Docker.pdf)
 * Securing Docker [[Download]](/book/Securing%20Docker.pdf)
 * The DevOps 2.0 Toolkit [[Download]](/book/The%20DevOps%202.0%20Toolkit.pdf)
+* The DevOps 2.1 Toolkit - Docker Swarm [[Download]](/book/The%20DevOps%202.1%20Toolkit%20-%20Docker%20Swarm.pdf)
 * The Docker Book - James Turnbull - v17.03.0 [[Download]](/book/The%20Docker%20Book%20-%20James%20Turnbull%20-%20v17.03.0.pdf)
 * Troubleshooting Docker [[Download]](/book/Troubleshooting%20Docker.epub)
 * Using Docker [[Download]](/book/Using%20Docker.pdf)
