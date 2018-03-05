@@ -24,6 +24,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Docker Containers - Build and Deploy with Kubernetes, Flannel, Cockpit, and Atomic [[Download]](/book/Docker%20Containers%20-%20Build%20and%20Deploy%20with%20Kubernetes%2C%20Flannel%2C%20Cockpit%2C%20and%20Atomic.pdf)
 * Docker Cookbook - Solutions and Examples for Building Distributed Applications [[Download]](/book/Docker%20Cookbook%20-%20Solutions%20and%20Examples%20for%20Building%20Distributed%20Applications.pdf)
 * Docker Cookbook [[Download]](/book/Docker%20Cookbook.pdf)
+* Docker for Data Science [[Download]](/book/Docker%20for%20Data%20Science.pdf)
 * Docker for Developers [[Download]](/book/Docker%20for%20Developers.pdf)
 * Docker for Sysadmins [[Download]](/book/Docker%20for%20Sysadmins.pdf)
 * Docker High Performance [[Download]](/book/Docker%20High%20Performance.pdf)
